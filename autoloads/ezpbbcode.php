@@ -15,7 +15,7 @@
  * @see http://nbbc.sourceforge.net/
  */
 
-class eZBBCode
+class ezpBBCode
 {
     function __construct()
     {
