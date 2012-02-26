@@ -1,0 +1,7 @@
+<?php /*
+[CustomTagSettings]
+AvailableCustomTags[]=ezbbcode
+
+[ezbbcode]
+CustomAttributes[]
+*/ ?>
